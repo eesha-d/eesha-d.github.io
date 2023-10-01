@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #6528F7;
 }
 
 /* main blockqoute */
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #6528F7 repeat;
   position: relative;
 }
 
@@ -414,7 +414,7 @@ h3 {
 }
 
 #experience .card-action {
-  background-color: rgba(0, 0, 0, 0.02);
+  background-color: (0, 0, 0, 0.02);
   border: none;
 }
 
@@ -473,7 +473,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid #6528F7 !important;
 }
 
 #skills .card.large {
@@ -549,7 +549,16 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #6528F7 !important;
+}
+
+.purple-text {
+  color: #6528F7 !important;
+}
+
+.purple {
+
+  background-color: #6528F7 !important;
 }
 
 /* .teal-text {
@@ -559,7 +568,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #D7BBF5 !important;
 }
 
 /* .teal {
@@ -602,7 +611,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #6528F7;
     height: 56px;
     line-height: 56px;
   }
