@@ -1,4 +1,4 @@
-#My personal webpage
+# My personal webpage
 This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
 
 Part 1: Screenshot of repo
